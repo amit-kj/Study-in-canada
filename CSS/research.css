@@ -1,0 +1,21 @@
+
+h1
+{
+    color: #FB667A;
+    font-size: 50px;
+}
+
+.button
+{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    font-size: 15px;
+    font-family: Consolas;
+    color: #18aa8d;
+    width: 70px;
+    height: 30px;
+    margin-left: -28px;
+}

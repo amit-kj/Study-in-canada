@@ -1,0 +1,31 @@
+
+
+img{
+
+margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+body{
+
+    background: #0E1119;
+}
+
+p{
+    font-size: 20px;
+    color: #FB667A;
+}
+
+h1{
+
+    font-size: 20px;
+    font-style: italic;
+    color: #18aa8d;
+    text-align: center;
+}
+
+h2{
+    font-size: 45px;
+    text-align: center;
+    color: #FB667A;
+}
